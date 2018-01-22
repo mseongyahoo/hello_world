@@ -1,0 +1,43 @@
+.navigation {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+  border: solid;
+}
+
+a  {
+  color: #14213D;
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 16px  20px;
+}
+  
+#special {
+  color: #FCA311;
+  font-family: 'Amatic SC', cursive;
+  font-size: 32px;
+  padding: 0px 50px;
+}
+
+.main  {
+  background-color: #EEEFF1;
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.product  {
+  text-align: center;
+  width: 45%;
+  margin: 0 auto;
+  border: solid;
+  display: inline-block;
+}
+
+.product img  {
+  width: 100%;
+}
+  
